@@ -4,3 +4,4 @@ Git is free software.
 123456
 分支测试1
 解决冲突master
+解决冲突测试2
