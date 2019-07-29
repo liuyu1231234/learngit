@@ -5,3 +5,4 @@ Git is free software.
 分支测试1
 解决冲突master
 解决冲突测试2
+分支管理1
