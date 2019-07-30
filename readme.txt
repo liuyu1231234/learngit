@@ -6,3 +6,4 @@ Git is free software.
 解决冲突master
 解决冲突测试2
 分支管理12345
+测试stash命令
